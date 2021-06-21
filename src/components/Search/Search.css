@@ -1,0 +1,10 @@
+input {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    font-size: 20px;
+    padding: 10px;;
+}
+
+.textInput {
+    width: 600px;
+}
